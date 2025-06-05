@@ -1,7 +1,5 @@
 # This is 30th code of this python course
 # This code demonstrates the use of else in loop (i.e for-loop, while-loop)
-from selectors import SelectSelector
-
 
 for i in range(1,6):
     print(i)
