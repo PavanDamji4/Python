@@ -1,7 +1,5 @@
 # This is 34th code of this python course
 # This code demonstrates the use of Short hand if else
-from selectors import SelectSelector
-
 a=3
 b=3
 
