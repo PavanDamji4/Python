@@ -3,8 +3,6 @@
 
 import random
 
-from numpy.f2py.crackfortran import usepattern
-
 print("*********** Welcome to the Game ***********")
 print("Choose by numbers ( eg., 1,2 )")
 print("1. Rock\n2. Paper\n3. Scissor\n4. Exit")
