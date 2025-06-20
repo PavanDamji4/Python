@@ -1,5 +1,5 @@
-# This is 51st code of this python course
-# this code demonstrates the use of access modifiers in oop ( i.e., private, protected , public)
+ # This is 51st code of this python course
+ # this code demonstrates the use of access modifiers in oop ( i.e., private, protected , public)
 
 class names:
     def __init__(self):
