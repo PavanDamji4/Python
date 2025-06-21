@@ -14,4 +14,5 @@ class sample2:
         self.b=b
         print("Sum : ",a+b)
 
+
 s2 = sample2(5,5)
